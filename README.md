@@ -25,10 +25,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naveens97/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/naveens97/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Math
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/naveens97/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3895-count-digit-appearances](https://github.com/naveens97/Leetcode/tree/master/3895-count-digit-appearances) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naveens97/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
