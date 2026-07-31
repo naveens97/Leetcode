@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/naveens97/Leetcode/tree/master/0055-jump-game) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/naveens97/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naveens97/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/naveens97/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naveens97/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naveens97/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3146-permutation-difference-between-two-strings](https://github.com/naveens97/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/naveens97/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/naveens97/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/naveens97/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
