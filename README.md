@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/naveens97/Leetcode/tree/master/0055-jump-game) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naveens97/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naveens97/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naveens97/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3146-permutation-difference-between-two-strings](https://github.com/naveens97/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Math
 |  |
