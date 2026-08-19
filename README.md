@@ -100,5 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/naveens97/Leetcode/tree/master/0155-min-stack) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveens97/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/naveens97/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
