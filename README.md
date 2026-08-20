@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/naveens97/Leetcode/tree/master/0877-stone-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveens97/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveens97/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/naveens97/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/naveens97/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/naveens97/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/naveens97/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/naveens97/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/naveens97/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/naveens97/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/naveens97/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
 | ------- |
