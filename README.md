@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/naveens97/Leetcode/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveens97/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0575-distribute-candies](https://github.com/naveens97/Leetcode/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/naveens97/Leetcode/tree/master/0877-stone-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/naveens97/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/naveens97/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/naveens97/Leetcode/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
