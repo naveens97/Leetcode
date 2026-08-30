@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveens97/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveens97/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/naveens97/Leetcode/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/naveens97/Leetcode/tree/master/0877-stone-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveens97/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveens97/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0575-distribute-candies](https://github.com/naveens97/Leetcode/tree/master/0575-distribute-candies) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naveens97/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [1859-sorting-the-sentence](https://github.com/naveens97/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/naveens97/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
