@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/naveens97/Leetcode/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/naveens97/Leetcode/tree/master/0877-stone-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveens97/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1748-sum-of-unique-elements](https://github.com/naveens97/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveens97/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naveens97/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/naveens97/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0575-distribute-candies](https://github.com/naveens97/Leetcode/tree/master/0575-distribute-candies) |
+| [1748-sum-of-unique-elements](https://github.com/naveens97/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naveens97/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3146-permutation-difference-between-two-strings](https://github.com/naveens97/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/naveens97/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/naveens97/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1748-sum-of-unique-elements](https://github.com/naveens97/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naveens97/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/naveens97/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Game Theory
