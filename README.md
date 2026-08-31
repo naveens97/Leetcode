@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/naveens97/Leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveens97/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/naveens97/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/naveens97/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/naveens97/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2169-count-operations-to-obtain-zero](https://github.com/naveens97/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/naveens97/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
