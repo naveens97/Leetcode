@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0575-distribute-candies](https://github.com/naveens97/Leetcode/tree/master/0575-distribute-candies) |
+| [1189-maximum-number-of-balloons](https://github.com/naveens97/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/naveens97/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naveens97/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/naveens97/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveens97/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/naveens97/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/naveens97/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naveens97/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naveens97/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/naveens97/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/naveens97/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/naveens97/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naveens97/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
