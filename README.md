@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/naveens97/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/naveens97/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3895-count-digit-appearances](https://github.com/naveens97/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/naveens97/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/naveens97/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Dynamic Programming
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/naveens97/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/naveens97/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/naveens97/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bubble Sort
 |  |
 | ------- |
