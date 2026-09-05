@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/naveens97/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/naveens97/Leetcode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/naveens97/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/naveens97/Leetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/naveens97/Leetcode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/naveens97/Leetcode/tree/master/0877-stone-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/naveens97/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/naveens97/Leetcode/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveens97/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/naveens97/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/naveens97/Leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/naveens97/Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveens97/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
