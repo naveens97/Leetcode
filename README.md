@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naveens97/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/naveens97/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/naveens97/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2325-decode-the-message](https://github.com/naveens97/Leetcode/tree/master/2325-decode-the-message) |
 | [3146-permutation-difference-between-two-strings](https://github.com/naveens97/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/naveens97/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/naveens97/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/naveens97/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/naveens97/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveens97/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2325-decode-the-message](https://github.com/naveens97/Leetcode/tree/master/2325-decode-the-message) |
 | [2785-sort-vowels-in-a-string](https://github.com/naveens97/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/naveens97/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/naveens97/Leetcode/tree/master/3280-convert-date-to-binary) |
