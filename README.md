@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/naveens97/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/naveens97/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveens97/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naveens97/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naveens97/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/naveens97/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/naveens97/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/naveens97/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/naveens97/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/naveens97/Leetcode/tree/master/2325-decode-the-message) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naveens97/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3146-permutation-difference-between-two-strings](https://github.com/naveens97/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/naveens97/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/naveens97/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/naveens97/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2169-count-operations-to-obtain-zero](https://github.com/naveens97/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/naveens97/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naveens97/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/naveens97/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/naveens97/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/naveens97/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/naveens97/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naveens97/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/naveens97/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naveens97/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/naveens97/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Game Theory
 |  |
