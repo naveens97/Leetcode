@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/naveens97/Leetcode/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/naveens97/Leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveens97/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/naveens97/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveens97/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/naveens97/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
