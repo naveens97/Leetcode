@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/naveens97/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naveens97/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/naveens97/Leetcode/tree/master/2325-decode-the-message) |
+| [2390-removing-stars-from-a-string](https://github.com/naveens97/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/naveens97/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/naveens97/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/naveens97/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/naveens97/Leetcode/tree/master/1701-average-waiting-time) |
 | [2169-count-operations-to-obtain-zero](https://github.com/naveens97/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/naveens97/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2390-removing-stars-from-a-string](https://github.com/naveens97/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naveens97/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/naveens97/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/naveens97/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/naveens97/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/naveens97/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
