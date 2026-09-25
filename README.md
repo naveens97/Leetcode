@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/naveens97/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/naveens97/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/naveens97/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/naveens97/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/naveens97/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/naveens97/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveens97/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveens97/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/naveens97/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/naveens97/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/naveens97/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveens97/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/naveens97/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/naveens97/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/naveens97/Leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/naveens97/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/naveens97/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/naveens97/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/naveens97/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/naveens97/Leetcode/tree/master/0229-majority-element-ii) |
