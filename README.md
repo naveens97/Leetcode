@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/naveens97/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/naveens97/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/naveens97/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/naveens97/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/naveens97/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveens97/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/naveens97/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/naveens97/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/naveens97/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/naveens97/Leetcode/tree/master/0229-majority-element-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/naveens97/Leetcode/tree/master/0075-sort-colors) |
 | [1859-sorting-the-sentence](https://github.com/naveens97/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Stack
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveens97/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/naveens97/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveens97/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/naveens97/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/naveens97/Leetcode/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/naveens97/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
