@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naveens97/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/naveens97/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/naveens97/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/naveens97/Leetcode/tree/master/0047-permutations-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naveens97/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/naveens97/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveens97/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/naveens97/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveens97/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/naveens97/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/naveens97/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveens97/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
