@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/naveens97/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/naveens97/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/naveens97/Leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/naveens97/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0575-distribute-candies](https://github.com/naveens97/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/naveens97/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/naveens97/Leetcode/tree/master/0704-binary-search) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/naveens97/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveens97/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/naveens97/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/naveens97/Leetcode/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/naveens97/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveens97/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naveens97/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/naveens97/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/naveens97/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0832-flipping-an-image](https://github.com/naveens97/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/naveens97/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/naveens97/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/naveens97/Leetcode/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/naveens97/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/naveens97/Leetcode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/naveens97/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
@@ -280,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/naveens97/Leetcode/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/naveens97/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/naveens97/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
